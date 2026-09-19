@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="./assets/social-preview.svg" alt="MCP CODING AGENT — project visual" width="100%">
+
+</div>
+
+---
+
 # MCP Coding Agent — Autonomous Agents Builder
 
 Autonomous AI engineering system exposed through Model Context Protocol (MCP). The Builder is designed to create production software, individual agents, and complete multi-agent systems.
